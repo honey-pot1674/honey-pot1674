@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I'm yang han suk 
+### I'm 1st grade student in Daejeon high school.
+### I'm wanna be game developer!
 <!--
 **honey-pot1674/honey-pot1674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
